@@ -1,0 +1,40 @@
+body{
+    font-family: Verdana, serif;
+    font-size: 1.1em;
+}
+h1{
+    font-variant: all-small-caps;
+    font-size: 80px;
+}
+a:hover {
+    border: 10px greenyellow solid;
+}
+h2{
+    font-size: 40px;
+}
+h1,h2{
+    color:#2B2D42;
+}
+a:link{
+    color:#2B2D42;
+}
+header,footer,main{
+    padding:30px;
+}
+header, footer{
+    color:#8D99AE;
+    background-color:#EF233C;
+}
+main{
+    background-color:#8D99AE
+}
+header{
+    margin-bottom:10px
+}
+footer{
+    margin-top:10px
+}
+p.dotted {
+    border-style: dotted;
+    border-width:1px;
+}
